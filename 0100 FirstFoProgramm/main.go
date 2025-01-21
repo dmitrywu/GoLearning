@@ -24,4 +24,5 @@ func main() {
 	//var bodyMassIndex = float64(userWeight) / userHeight // С преобразование типа переменной к нужному float64()
 
 	fmt.Print(bodyMassIndex)
+
 }
